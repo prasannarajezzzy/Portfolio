@@ -2,7 +2,7 @@
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/prasannarajezzzy/portfolio",
+  "homepage": "https://prasannarajezzzy.github.io/portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",

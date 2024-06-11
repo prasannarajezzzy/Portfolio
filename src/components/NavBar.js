@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import logo from "../assets/img/logo.svg";
 import navIcon1 from "../assets/img/nav-icon1.svg";
-import navIcon2 from "../assets/img/nav-icon2.svg";
+import navIcon2 from "../assets/img/gmail.svg";
 import navIcon3 from "../assets/img/nav-icon3.svg";
 import { HashLink } from "react-router-hash-link";
 import { BrowserRouter as Router } from "react-router-dom";
@@ -100,6 +100,9 @@ export const NavBar = () => {
               <div className="social-icon">
                 <a href="https://www.linkedin.com/in/prasanna-rajendra/">
                   <img src={navIcon1} alt="" />
+                </a>
+                <a href="mailto:prasannavadk@gmail.com">
+                  <img src={navIcon2} alt="" />
                 </a>
               </div>
               <a
